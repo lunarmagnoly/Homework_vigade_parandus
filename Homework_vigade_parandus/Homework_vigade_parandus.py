@@ -28,7 +28,7 @@ while True:
         di=sqrt(b*2+c*2)
         print("Ristküliku diagonaal", round(di))# added ) in the end
         print()
-        break
+        
     except:
         print("Wrong entry, exprcted float number")
         continue
